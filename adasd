@@ -1,0 +1,30 @@
+[33mcommit 9ade384c0d0b8fb6f837b375984bc64c707ac03d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0c6c56c 83f712c
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Tue Mar 5 14:34:51 2019 +0000
+
+    Merge branch 'master' of https://github.com/londonappbrewery/dicee-flutter
+
+[33mcommit 0c6c56cdc9f2a123e0b53d9eafae4b64af9852a7[m
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Tue Mar 5 14:34:18 2019 +0000
+
+    images update naming
+
+[33mcommit 83f712c41aa6568faf4f2431d177641cf6896644[m
+Author: Angela Yu <8798027+angelabauer@users.noreply.github.com>
+Date:   Tue Mar 5 11:11:12 2019 +0000
+
+    Update README.md
+
+[33mcommit e31ee645b879298b43154e880236742da47ddef6[m
+Author: Angela Yu <8798027+angelabauer@users.noreply.github.com>
+Date:   Tue Mar 5 11:10:53 2019 +0000
+
+    Update README.md
+
+[33mcommit fac6f579cf520d5bef218eeb0adf30a61bc50e82[m
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Tue Mar 5 11:08:12 2019 +0000
+
+    Initial
